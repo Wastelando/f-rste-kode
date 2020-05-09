@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <hr>
+      <img class="bilde" src="oter.jpg" alt="en vanlig selfie" >
+    <hr>
+    <h1>Oter Fettersen</h1>
+
+        <br>
+
+
+
+    <h2>Hvem er han?</h2>
+          <li class="negativ">- Biter deg i tåa</li>
+          <li class="negativ">- Spiser potetgullet ditt</li>
+          <li class="negativ">- Slipper inn jehovas vitne</li>
+    <br>
+            <li class="positiv">+ Kan være søt</li>
+            <li class="positiv">+ Sover for det meste</li>
+            <li class="positiv">+ Spiser middagsrester</li>
+
+      <h4>Vil du se Fettersen sloss mot Krokkodilla Karri? Klikk <a href="https://www.youtube.com/watch?v=ArhWJts2sg8">HER</a></h4>
+
+  </body>
+</html>
